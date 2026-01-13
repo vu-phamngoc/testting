@@ -1,3 +1,4 @@
 - [ChatGPT](https://chatgpt.com)
 - [Google](https://google.com)
 - [GitHub](https://github.com)
+- [Claude](https://claude.ai)
